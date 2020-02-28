@@ -1,6 +1,6 @@
 # JetBrains 中文社区
 
-https://github.com/JetBrains-cn/jetbrains-cn.github.io
+[JetBrains-cn/jetbrains-cn.github.io](https://github.com/JetBrains-cn/jetbrains-cn.github.io)
 
 ## 愿景
 
@@ -14,7 +14,7 @@ https://github.com/JetBrains-cn/jetbrains-cn.github.io
 
 先做一个 Blog+论坛，社区体系就用 [GitHub](https://github.com/JetBrains-cn/jetbrains-cn.github.io/issues) 这一套
 
-- 风格：Jetbrain 官方 UI https://jetbrains.github.io/ring-ui/
+- 风格：Jetbrain 官方 UI <https://jetbrains.github.io/ring-ui/>
 - 内容：Jetbrain 中文资料集合，[Gatsby](https://www.gatsbyjs.org/) 生成，评论什么的GitHub issue - [Gitment](https://github.com/imsun/gitment)
 - 协作：GitHub PR 体系，欢迎来一波 stars 😂
 
