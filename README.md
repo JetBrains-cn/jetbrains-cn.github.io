@@ -14,8 +14,8 @@
 
 先做一个 Blog+论坛，社区体系就用 [GitHub](https://github.com/JetBrains-cn/jetbrains-cn.github.io/issues) 这一套
 
-- 风格：Jetbrain 官方 UI <https://jetbrains.github.io/ring-ui/>
-- 内容：Jetbrain 中文资料集合，[Gatsby](https://www.gatsbyjs.org/) 生成，评论什么的GitHub issue - [Gitment](https://github.com/imsun/gitment)
+- 风格：JetBrains 官方 UI <https://jetbrains.github.io/ring-ui/>
+- 内容：JetBrains 中文资料集合，[Gatsby](https://www.gatsbyjs.org/) 生成，评论什么的 GitHub issue - [Gitment](https://github.com/imsun/gitment)
 - 协作：GitHub PR 体系，欢迎来一波 stars 😂
 
 Thanks to [Kent C. Dodds personal website](https://kentcdodds.com/)
